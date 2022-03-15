@@ -2,8 +2,6 @@
 
 I'm currently working towards finishing my PhD in Biochemistry. 
 
-I've been [reading](https://github.com/dgiguer/book-notes) to learn about private funding when I'm not writing. 
-
 [Here](https://github.com/dgiguer/estimating-chromosomes-in-eukaryotic-genomes) is a (cool) approach I developed recently. 
 
 Follow me on [Twitter!](https://twitter.com/DanielJGiguere).
