@@ -1,12 +1,10 @@
-### Hello 👋
+### 🧬
 
-I'm currently working towards finishing my PhD in Biochemistry. 
+I'm currently a Scientist at [Volta Labs](https://www.voltalabs.com/), where we are changing how DNA sequencing samples are prepared.
 
 [Here](https://github.com/dgiguer/estimating-chromosomes-in-eukaryotic-genomes) is a (cool) approach I developed recently. 
 
 Follow me on [Twitter!](https://twitter.com/DanielJGiguere).
-
-How to pronounce my (french) [last name](https://www.youtube.com/watch?v=9GAk5TqgR2U). 
 
 <!--
 **dgiguer/dgiguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
