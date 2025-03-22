@@ -1,10 +1,10 @@
 ### 🧬
 
-I'm currently a Scientist at [Volta Labs](https://www.voltalabs.com/), where we are changing how DNA sequencing samples are prepared.
+I'm currently building [Flow Genomics](https://www.flowgenomics.com/), a full stack genomics company in Canada.
 
-[Here](https://github.com/dgiguer/estimating-chromosomes-in-eukaryotic-genomes) is a (cool) approach I developed recently. 
+Follow me on [Bluesky!](https://bsky.app/profile/danielgiguere.bsky.social).
 
-Follow me on [Twitter!](https://twitter.com/DanielJGiguere).
+Follow Flow Genomics on [Bluesky!](https://bsky.app/profile/flowgenomics.bsky.social).
 
 <!--
 **dgiguer/dgiguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
